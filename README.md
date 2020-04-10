@@ -2,5 +2,8 @@
 Book Recommendation System
 
 <h2>Contribution</h2>
-1. Data Preprocesssing.
-2. Introduction including the concept of recommendation system in report making.
+<ul>
+  <li>Data Preprocesssing.</li>
+  <li>Introduction including the concept of recommendation system in report making.</li>
+</ul>
+
